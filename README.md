@@ -6,7 +6,7 @@ I am a Computer Science graduate and a dedicated mobile app developer with a pas
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,css)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
