@@ -14,11 +14,6 @@ I am a Computer Science graduate and a dedicated mobile app developer with a pas
   - Navigating through the world of React Navigation for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
 
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
-
 ## 📬 Get in Touch
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/saif-ur-rehman-5821b119a/)
