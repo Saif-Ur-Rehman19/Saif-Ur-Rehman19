@@ -6,7 +6,7 @@ I am a Computer Science graduate and a dedicated mobile app developer with a pas
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,reactnative,androidstudio,firebase,tailwind,git,github,gradle,kotlin,swift,swiftui,npm,redux,stackoverflow,vscode, xcode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,androidstudio,firebase,tailwind,git,github,gradle,kotlin,swift,npm,redux,stackoverflow,vscode, xcode)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
