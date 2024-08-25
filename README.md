@@ -1,7 +1,33 @@
-## Hi there 👋
+# Hi, I'm <Saif Ur Rehman>! 👋
+
+I am a Computer Science graduate and a dedicated mobile app developer with a passion for crafting efficient and user-friendly solutions. My journey revolves around exploring the ever-evolving world of technology, building innovative mobile applications, and continuously learning to enhance my skills. I enjoy sharing my knowledge with the community and contributing to projects that make a difference.
+
+![</Saif-Ur-Rehman19>'s Stats](https://github-readme-stats.vercel.app/api?username=</Saif-Ur-Rehman19>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,ts,reactnative,androidstudio,firebase,tailwind,git,github,gradle,kotlin,swift,swiftui,npm,redux,stackoverflow,vscode, xcode)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning iOS Development
+  - Navigating through the world of React Navigation for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+
+ ## 🏆 Achievements
+
+- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+
+
+## 📬 Get in Touch
+
+- Connect with me on [Linkedin](https://www.linkedin.com/in/saif-ur-rehman-5821b119a/)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
 
 <!--
-**Saif-Ur-Rehman19/Saif-Ur-Rehman19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
