@@ -1,4 +1,4 @@
-# Hi, I'm <Saif Ur Rehman>! 👋
+# Hi, I'm Saif Ur Rehman! 👋
 
 I am a Computer Science graduate and a dedicated mobile app developer with a passion for crafting efficient and user-friendly solutions. My journey revolves around exploring the ever-evolving world of technology, building innovative mobile applications, and continuously learning to enhance my skills. I enjoy sharing my knowledge with the community and contributing to projects that make a difference.
 
