@@ -6,7 +6,7 @@ I am a Computer Science graduate and a dedicated cross-platform mobile app devel
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,css,react,swift,kotlin,androidstudio.gradle,firebase,tailwind,vscode,sqlite,stackoverflow,postman,linux,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,css,react,swift,kotlin,androidstudio,gradle,firebase,tailwind,vscode,sqlite,stackoverflow,postman,linux,git,github)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
